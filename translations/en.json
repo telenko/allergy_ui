@@ -1,0 +1,18 @@
+{
+    "name": "Name",
+    "impactStartDelay": "Impact start delay",
+    "impactDuration": "Impact duration",
+    "isAccumulative": "Is accumulative",
+    "noData": "No data available",
+    "priority": "Priority",
+    "allergens": "Allergens",
+    "toolbarFilters": "Filters",
+    "toolbarFiltersLabel": "Show Filters",
+    "toolbarFiltersTooltipHide": "Hide Filters",
+    "toolbarFiltersTooltipShow": "Show Filters",
+    "toolbarFiltersTooltipActive": "{count} active filters",
+    "filterOperatorContains": "contains",
+    "filterOperatorEquals": "equals",
+    "filterOperatorStartsWith": "starts with",
+    "filterOperatorEndsWith": "ends with"
+}

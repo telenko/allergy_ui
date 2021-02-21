@@ -1,0 +1,18 @@
+{
+    "name": "Назва",
+    "impactStartDelay": "Затримка початку дії",
+    "impactDuration": "Час дії",
+    "isAccumulative": "Чи накопичуюча",
+    "noData": "Даних за запитом немає",
+    "priority": "Пріорітет",
+    "allergens": "Алергени",
+    "toolbarFilters": "Фільтри",
+    "toolbarFiltersLabel": "Показати фільтри",
+    "toolbarFiltersTooltipHide": "Сховати фільтри",
+    "toolbarFiltersTooltipShow": "Показати фільтри",
+    "toolbarFiltersTooltipActive": "{count} активних фільтрів",
+    "filterOperatorContains": "включає",
+    "filterOperatorEquals": "рівне",
+    "filterOperatorStartsWith": "починається з",
+    "filterOperatorEndsWith": "закінчується"
+}
