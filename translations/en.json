@@ -14,5 +14,10 @@
     "filterOperatorContains": "contains",
     "filterOperatorEquals": "equals",
     "filterOperatorStartsWith": "starts with",
-    "filterOperatorEndsWith": "ends with"
+    "filterOperatorEndsWith": "ends with",
+    "dateTimeStarted": "Date/time started",
+    "person": "Person",
+    "submit": "Submit",
+    "states": "States",
+    "selectMultipleStates": "Select Multiple States"
 }

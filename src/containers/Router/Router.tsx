@@ -3,6 +3,7 @@ import { lazy, Suspense } from 'react';
 import { CircularProgress } from '@material-ui/core';
 
 const AllergensLazy = lazy(() => import('../Allergens/Allergens'));
+const IncidentCreateLazy = lazy(() => import('../IncidentCreate/IncidentCreate'));//TODO split router
 
 
 const Router: React.FC = () => (
@@ -11,6 +12,11 @@ const Router: React.FC = () => (
           <Route path="/allergens">
             <Suspense fallback={<CircularProgress/>}>
                 <AllergensLazy/>
+            </Suspense>
+          </Route>
+          <Route path="/incidents/create">
+            <Suspense fallback={<CircularProgress/>}>
+                <IncidentCreateLazy/>
             </Suspense>
           </Route>
           <Route path="/report">

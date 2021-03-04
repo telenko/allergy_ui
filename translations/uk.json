@@ -14,5 +14,10 @@
     "filterOperatorContains": "включає",
     "filterOperatorEquals": "рівне",
     "filterOperatorStartsWith": "починається з",
-    "filterOperatorEndsWith": "закінчується"
+    "filterOperatorEndsWith": "закінчується",
+    "dateTimeStarted": "Дата/час початку дії",
+    "person": "Суб'єкт досліджень",
+    "submit": "Відправити",
+    "states": "Стани",
+    "selectMultipleStates": "Оберіть усі ознаки"
 }
